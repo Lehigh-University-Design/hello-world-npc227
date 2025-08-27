@@ -1,3 +1,10 @@
-p {
-    color:blueviolet
+body {
+    background-color: burlywood;
+    color: blue;
+
+    p {
+        color:blueviolet
+    
+    }
+
 }
